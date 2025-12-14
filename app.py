@@ -56,7 +56,7 @@ if model_clf is None:
 # TAMPILAN APLIKASI
 # ==============================================================================
 st.title("❤️ Sistem Prediksi Jantung & Kolesterol")
-st.markdown("Created by: **[Nama Anda]** - Tugas Individu Data Mining")
+st.markdown("Created by: **Rasnah-60900123066** - Tugas Individu Data Mining")
 
 st.info("Aplikasi ini menggunakan **Decision Tree** untuk deteksi penyakit dan **Linear Regression** untuk estimasi kolesterol.")
 
